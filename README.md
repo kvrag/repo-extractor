@@ -2,7 +2,7 @@
 
 ### Clone all repos from your cohort's organization, along with all the branches!
 
-1. Don't clone this repo - instead, save the included files locally and don't run `git init`. Otherwise you'll have repos inside a repo, no-no.
+1. Don't clone this repo - instead, download the files and save locally. Otherwise you'll have repos inside a repo, no-no.
 2. `getAllBranches.sh` and `download-repos.rb` should be in the same directory.
 3. Change the organization name on line 23 of `download-repos.rb`.
 4. Run `gem install octokit`.
