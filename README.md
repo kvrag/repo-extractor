@@ -1,6 +1,6 @@
-# dbc-repos
+# repo-extractor
 
-### Clone all repos from your cohort's organization, along with all the branches!
+### Clone all repos from your organization, along with all the branches!
 
 1. Don't clone this repo - instead, download the files and save locally. Otherwise you'll have repos inside a repo, no-no.
 2. `getAllBranches.sh` and `download-repos.rb` should be in the same directory.
