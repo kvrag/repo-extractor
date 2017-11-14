@@ -1,9 +1,3 @@
-# Run 'gem install octokit' in terminal first
-# 'getAllBranches.sh' and 'download-repos.rb' should be in the same directory.
-# Run this file using 'ruby download-repos.rb' in your terminal.
-# Organization name can be changed on line 27.
-# Credits to @klkelley for writing the code upon which this was based (https://gist.github.com/klkelley/20fe2c35836110589966edd82772f5ca)
-
 require 'Octokit'
 require 'io/console'
 
